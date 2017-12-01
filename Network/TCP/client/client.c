@@ -6,7 +6,7 @@
 #include <string.h>
 #include <unistd.h>
 
-#define SERV_ADDR "192.168.128.233" 
+#define SERV_ADDR "127.0.0.1"
 #define SERV_PORT 9876
 
 int main()
